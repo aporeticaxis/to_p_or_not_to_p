@@ -1,13 +1,13 @@
 # Infinite Jests and Bounded Recognitions- to P or != NP ? 
 <p align="center">
-  <img alt="aidan arg" src="https://github.com/user-attachments/assets/f10516e5-4880-4d3b-947d-316d03f082db" style=width:65%;>
+  <img alt="aidan arg" src="https://github.com/user-attachments/assets/f10516e5-4880-4d3b-947d-316d03f082db" style=width:50%;>
 </p>
 
 On X last week, Aidan 🐐 [https://x.com/aidan_mclau] made an intriguing claim: "It's easier to spot good ideas than to generate them." 
 
 This assertion piqued my interest, with many jumping in the comments and readily drawing parallels to the (in)famous P vs NP problem in computational complexity theory. However, upon closer examination, this _seemingly_ intuitive statement reveals itself to be a problematic overgeneralization that fails to capture the nuanced reality of idea generation and recognition across diverse domains.
 
-In fairness to Aidan, the 'argument' is actually more a _statement_ than a structured logical argument with premises leading to a conclusion. As it stands, it's not a valid argument in the formal sense because it doesn't explicitly lay out the logical steps from premises to conclusion. Written another way, the original **proposition** suggests that it is generally easier to spot good ideas than to generate them across all important domains. Let's formalize and explicate (dw we aren't going _too_ crazy). 
+In fairness to Aidan, the 'argument' is actually more a _statement_ than a structured logical argument with premises leading to a conclusion. As it stands, it's not a valid argument in the formal sense because it doesn't explicitly lay out the logical steps from premises to conclusion. Let's formalize this and explicate (dw we aren't going _too_ crazy). 
 
 ## The Argument and Its Formalization
 
@@ -20,27 +20,37 @@ Aidan's claim can be formalized as follows:
 
 Where:
 
+    ∀x   represents "for all x" (also called "universal quantifier") in real people speak, "for all" or "for every"
+    →    represents a logical connector known as implication, read as "implies"/"then"/"implies that"
     G(x) represents "x is a good idea."
     S(x) represents "spotting x."
     P(x) represents "producing/generating x."
+  
 
-Firstly, the claim of universal applicability ("all" _important_ domains) is an overly broad generalization. This formalization, while elegant, immediately raises concerns. It treats idea generation - (P(G(x))) - and recognition - (S(G(x))) - as cleanly separable, quantifiable, and universally comparable processes. In reality, these are often intertwined, interleaved, iterative processes without clear boundaries [https://doi.org/10.1016/j.plrev.2023.07.002].  Many ideas are generated through feedback from evaluation, while the evaluation process itself can involve creative generation. More on that towards the end.
+Firstly, the claim of universal applicability ("all" _important_ domains) is an overly broad generalization. This formalization, while elegant, immediately raises concerns. It treats idea generation - (P(G(x))) - and recognition - (S(G(x))) - as cleanly separable, quantifiable, and universally comparable processes. In reality, these are often intertwined, interleaved, iterative processes without clear boundaries 
+[https://doi.org/10.1016/j.plrev.2023.07.002] (much more in the research sections!).
 
 ## Overextending P
 
-The invocation of P vs NP problem to justify this claim is thought-provoking but ultimately flawed. P vs NP is a specific conjecture within computational complexity theory, dealing with decision problems and the time complexity of deterministic vs. non-deterministic Turing machines. While it offers an intriguing analogy – verifying solutions (spotting ideas) vs finding solutions (generating ideas) – extending this to all domains of human creativity and problem-solving is an unwarranted leap.
+The invocation of the P vs NP problem is thought-provoking, but, in my reading, ultimately flawed. P vs NP is a specific conjecture within computational complexity theory, dealing with decision problems and the time complexity of deterministic vs. non-deterministic Turing machines. While it offers an intriguing analogy – verifying solutions (spotting ideas) vs finding solutions (generating ideas) – extending this to all domains of human creativity and problem-solving is an unwarranted leap.
 
 Moreover, P vs NP remains an unproven conjecture. Using it as a certain premise for a broad argument about idea generation and recognition becomes doubly tenuous. The generalization from computational complexity to all domains involves what formally regarded as a _fallacy of division_, where characteristics of a specific type of problem (like NP-complete problems) are incorrectly applied universally.
+
 ---
 
 ## P Rising
-I thought I was done with this whole damn thing and then Jonathan Gorard @getjonwithit posted about Godel and well, it was relevant. So I'll briefly tie it in, link it, but won't try to go too much into it. IANA Godel scholar (yet).
+I thought I was done with this whole damn thing and then Jonathan Gorard @getjonwithit posted about Godel and well, it was relevant afaict. So I'll briefly tie it in, link it, but won't try to go too much into it. IANA Godel scholar (yet) so be kind.
 [https://x.com/getjonwithit/thread/1822366224460009729]
->> SKIP AND JUMP BACK AFTER YOU READ TIL THE END << Perhaps the challenges/complexity of verification is owed to the inherent irreducibility of certain creative processes, not the nature of "easier" vs "harder" problems in P vs NP. It suggests that some problems might be inherently difficult not just because they are hard to verify (NP) but because they require an irreducible amount of computational effort to solve, which is consistent with the idea of NP-complete problems.
+>> I would kindly ask that you please SKIP THIS AND JUMP BACK AFTER YOU READ TIL THE END << Perhaps the challenges/complexity of verification is owed to the inherent irreducibility of certain creative processes, not the nature of "easier" vs "harder" problems in P vs NP. It suggests that some problems might be inherently difficult not just because they are hard to verify (NP) but because they require an irreducible amount of computational effort to solve, which is consistent with the idea of NP-complete problems.
+
+
+--- 
 
 ## What's Actually Easy?
 
-How do we define "easier" across diverse domains? Consider a few (non-exhaustive list of) possibilities:
+Setting aside the commenters, let's go back to vanilla Aidan: how do we define "easier" across diverse domains? 
+
+Consider a few (non-exhaustive list of) possibilities:
 
 1. Cognitive load: Measured by mental effort, time taken, or resources required.
 2. Success rate: Frequency of generating/recognizing good ideas in a given timeframe.
