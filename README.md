@@ -19,19 +19,26 @@ Where:
 Firstly, the claim of universal applicability to "all important domains" is an overly broad generalization lacking supporting evidence. 
 Intuition might have the erudite recall many domains do not neatly map to the framework of computational problems, where a crisp notion of verifying solutions applies. In creative and subjective fields like art, music, or philosophy, the very notions of "good ideas" and "verification" are open to interpretation. Generating ideas in those realms is a core part of the process, not a separate challenge from recognizing quality.
 
-Moreover, even in domains more amenable to formalization, the relative difficulty of idea generation and recognition is not a fixed universal law, but highly context-dependent. 
-In mature, well-explored fields, coming up with novel good ideas can indeed be harder than recognizing the value of existing ones; yet, in nascent, rapidly evolving areas, the opposite is often true: generating ideas is easy while identifying the truly promising ones is hard due to lack of established evaluation criteria and proven track records. 
-The cutting edge of any field tends to have this characteristic (this is why I've loved studying transformational change and paradigmatic change for the past decade!).
+Even in domains more amenable to formalization, the relative difficulty of idea generation and recognition is not some fixed universal law, but highly context-dependent.
 
-More fundamentally, the formalization we wrote down earlier - # ∀x (Important Domain(x)→S(G(x))<P(G(x))) - has issues.
+In mature, well-explored fields, coming up with novel good ideas can indeed be harder than recognizing the value of existing ones; contrast that with nascent, rapidly evolving areas, where the opposite is often true: generating ideas is easy while identifying the truly promising ones is hard due to lack of established evaluation criteria and proven track records. 
 
-For one thing, it treats idea generation - P(G(x)) - and idea recognition - S(G(x)) - as cleanly separable, quantifiable, and comparable. 
+The cutting edge of any field tends to have this characteristic (which is why I've loved studying transformational change and paradigmatic change for the past decade!).
+
+Perhaps more fundamentally, the formalization we wrote down earlier 
+</p>
+<p align="center">
+  ∀x(Important Domain(x) → S(G(x)) <  P(G(x)))
+</p>
+has issues.
+
+For one thing, it treats idea generation - **P(G(x))** - and idea recognition - **S(G(x))** - as cleanly separable, quantifiable, and comparable. 
 
 In reality, they are often intertwined iterative processes without a clear boundary. Many ideas are generated through feedback from evaluation, while the evaluation process itself can involve creative generation. A strict comparison of difficulty between the two is often not meaningful or measurable.
 
 ## **_Examining P vs NP Invocation, Interpretation_**
 
-Several commenters equated this argument to (or justify it by) the P vs NP problem in computational complexity, which contrasts the ease of verifying a solution (analogous to _**spotting**_ a good idea) with the difficulty of finding one (analogous to _**generating**_ a good idea).
+Several commenters then tied this argument to (or justify it using) the P vs NP problem in computational complexity, which contrasts the ease of verifying a solution (analogous to _**spotting**_ a good idea) with the difficulty of finding one (analogous to _**generating**_ a good idea).
 
 ### Some definitions (sources follow):
 
@@ -48,7 +55,7 @@ The equation P≠NP suggests that there exist problems for which solutions can b
 
 The analogy to the P vs NP question, while thought-provoking, is flawed when stretched to be a universal rule. P vs NP is a specific conjecture within the scope of computational complexity theory and decision problems. Generalizing it to all ideas in all domains is an unwarranted leap. Even in its native context, P vs NP remains unproven - using it as a certain premise for a broad argument is thus doubly tenuous.
 
-tl;dr Validity hinges on the logical consistency within the premises. If we accept the premise that all domains can be reduced to a P vs NP problem, the argument might hold. But this is a big assumption, making the validity contingent on this equivalence. As I've tried to suggest, I don't think this is justified, and as such the generalization from computational complexity to all domains involves a _fallacy of division_, where characteristics of a specific type of problem (NP-complete problems) are incorrectly applied to all domains. 
+tl;dr Validity hinges on the logical consistency within the premises: if we accept the premise that all domains can be reduced to a P vs NP problem, the argument might hold. But this is a big assumption, making the validity contingent on this equivalence. As I've tried to suggest, I don't think this is justified, and as such the generalization from computational complexity to all domains involves a _fallacy of division_, where characteristics of a specific type of problem (NP-complete problems) are incorrectly applied to all domains. Computational complexity, while loosely analogous in some ways, does not automatically port over to a universal law about the relative difficulty of idea generation and recognition across all domains.
 
 # IDEONOMY - Let's Get Creative
 * https://ideonomy.mit.edu/
