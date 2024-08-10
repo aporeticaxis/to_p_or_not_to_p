@@ -1,5 +1,6 @@
 # Infinite Jests and Bounded Recognitions - to P or != NP
-[https://x.com/aidan_mclau/status/1820935364128669840]
+<p align="center"> [https://x.com/aidan_mclau/status/1820935364128669840]
+</p>
 <p align="center">
   <img alt="aidan arg" src="https://github.com/user-attachments/assets/f10516e5-4880-4d3b-947d-316d03f082db" style=width:50%;>
 </p>
