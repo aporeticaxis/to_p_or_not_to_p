@@ -3,11 +3,11 @@
   <img alt="aidan arg" src="https://github.com/user-attachments/assets/f10516e5-4880-4d3b-947d-316d03f082db" style=width:65%;>
 </p>
 
-On X last week, Aidan🐐[https://x.com/aidan_mclau] made an intriguing claim: "It's easier to spot good ideas than to generate them." 
+On X last week, Aidan 🐐 [https://x.com/aidan_mclau] made an intriguing claim: "It's easier to spot good ideas than to generate them." 
 
 This assertion piqued my interest, with many jumping in the comments and readily drawing parallels to the (in)famous P vs NP problem in computational complexity theory. However, upon closer examination, this _seemingly_ intuitive statement reveals itself to be a problematic overgeneralization that fails to capture the nuanced reality of idea generation and recognition across diverse domains.
 
-In fairness to Aidan, the 'argument' is actually more a _statement_ than a structured logical argument with premises leading to a conclusion. As it stands, it's not a valid argument in the formal sense because it doesn't explicitly lay out the logical steps from premises to conclusion. Written another way, the original **proposition** suggests that it is generally easier to spot good ideas than to generate them across all important domains. Let's formalize and explicate. 
+In fairness to Aidan, the 'argument' is actually more a _statement_ than a structured logical argument with premises leading to a conclusion. As it stands, it's not a valid argument in the formal sense because it doesn't explicitly lay out the logical steps from premises to conclusion. Written another way, the original **proposition** suggests that it is generally easier to spot good ideas than to generate them across all important domains. Let's formalize and explicate (dw we aren't going _too_ crazy). 
 
 ## The Argument and Its Formalization
 
@@ -24,13 +24,19 @@ Where:
     S(x) represents "spotting x."
     P(x) represents "producing/generating x."
 
-Firstly, the claim of universal applicability ("all" _important_ domains) is an overly broad generalization lacking supporting evidence. This formalization, while elegant, immediately raises concerns. It treats idea generation - (P(G(x))) - and recognition - (S(G(x))) - as cleanly separable, quantifiable, and universally comparable processes. In reality, these are often intertwined, interleaved, iterative processes without clear boundaries [https://doi.org/10.1016/j.plrev.2023.07.002].  Many ideas are generated through feedback from evaluation, while the evaluation process itself can involve creative generation. More on that towards the end.
+Firstly, the claim of universal applicability ("all" _important_ domains) is an overly broad generalization. This formalization, while elegant, immediately raises concerns. It treats idea generation - (P(G(x))) - and recognition - (S(G(x))) - as cleanly separable, quantifiable, and universally comparable processes. In reality, these are often intertwined, interleaved, iterative processes without clear boundaries [https://doi.org/10.1016/j.plrev.2023.07.002].  Many ideas are generated through feedback from evaluation, while the evaluation process itself can involve creative generation. More on that towards the end.
 
 ## Overextending P
 
 The invocation of P vs NP problem to justify this claim is thought-provoking but ultimately flawed. P vs NP is a specific conjecture within computational complexity theory, dealing with decision problems and the time complexity of deterministic vs. non-deterministic Turing machines. While it offers an intriguing analogy – verifying solutions (spotting ideas) vs finding solutions (generating ideas) – extending this to all domains of human creativity and problem-solving is an unwarranted leap.
 
 Moreover, P vs NP remains an unproven conjecture. Using it as a certain premise for a broad argument about idea generation and recognition becomes doubly tenuous. The generalization from computational complexity to all domains involves what formally regarded as a _fallacy of division_, where characteristics of a specific type of problem (like NP-complete problems) are incorrectly applied universally.
+---
+
+## P Rising
+I thought I was done with this whole damn thing and then Jonathan Gorard @getjonwithit posted about Godel and well, it was relevant. So I'll briefly tie it in, link it, but won't try to go too much into it. IANA Godel scholar (yet).
+[https://x.com/getjonwithit/thread/1822366224460009729]
+>> SKIP AND JUMP BACK AFTER YOU READ TIL THE END << Perhaps the challenges/complexity of verification is owed to the inherent irreducibility of certain creative processes, not the nature of "easier" vs "harder" problems in P vs NP. It suggests that some problems might be inherently difficult not just because they are hard to verify (NP) but because they require an irreducible amount of computational effort to solve, which is consistent with the idea of NP-complete problems.
 
 ## What's Actually Easy?
 
@@ -85,8 +91,6 @@ From an ideonomic perspective, the process of idea generation and recognition is
 
 If you made it this far, cheers! Hope you enjoyed the read. Happy hunting anon.
 
-[https://ideonomy.mit.edu/pdf/what_ideonomy_can_do.pdf]
-
 [esoteric wisdom.pdf](https://github.com/user-attachments/files/16570723/esoteric.wisdom.pdf)
 
 ### Appendix and dfs (sources follow):
@@ -104,11 +108,11 @@ The equation P≠NP suggests that there exist problems for which solutions can b
 * and here: https://en.wikipedia.org/wiki/P_versus_NP_problem
 
 **Research Papers**
+* https://acris.aalto.fi/ws/portalfiles/portal/31892654/fpsyg_10_00032.pdf
+* https://pablobrinol.com/wp-content/uploads/2021/12/2021-PR-SVT.pdf
+* https://journals.sagepub.com/doi/abs/10.1177/00332941221114421?download=true&journalCode=prxa
 * https://www.researchgate.net/publication/380820358_Divergent_Creativity_in_Humans_and_Large_Language_Models
-
 
 **Ideonomy Master Source**
 * https://ideonomy.mit.edu/
-
-**tl;dr**
-tl;dr Validity hinges on the logical consistency within the premises: if we accept the premise that all domains can be reduced to a P vs NP problem, the argument might hold. But this is a big assumption, making the validity contingent on this equivalence. As I've tried to suggest, I don't think this is justified, and as such the generalization from computational complexity to all domains involves a _fallacy of division_, where characteristics of a specific type of problem (NP-complete problems) are incorrectly applied to all domains. Computational complexity, while loosely analogous in some ways, does not automatically port over to a universal law about the relative difficulty of idea generation and recognition across all domains.
+* https://ideonomy.mit.edu/pdf/what_ideonomy_can_do.pdf
