@@ -3,11 +3,11 @@
   <img alt="aidan arg" src="https://github.com/user-attachments/assets/f10516e5-4880-4d3b-947d-316d03f082db" style=width:65%;>
 </p>
 
-On X last week, Aidan🐐[https://x.com/aidan_mclau] made an intriguing claim: "It's easier to spot good ideas than to generate them." This assertion quickly gained traction, with many jumping in the comments and drawing parallels to the (in)famous P vs NP problem in computational complexity theory. However, upon closer examination, this _seemingly_ intuitive statement reveals itself to be a problematic overgeneralization that fails to capture the nuanced reality of idea generation and recognition across diverse domains.
+On X last week, Aidan🐐[https://x.com/aidan_mclau] made an intriguing claim: "It's easier to spot good ideas than to generate them." 
 
-So, let's explicate!
+This assertion piqued my interest, with many jumping in the comments and readily drawing parallels to the (in)famous P vs NP problem in computational complexity theory. However, upon closer examination, this _seemingly_ intuitive statement reveals itself to be a problematic overgeneralization that fails to capture the nuanced reality of idea generation and recognition across diverse domains.
 
-In fairness, the 'argument' is actually more a _statement_ than a structured logical argument with premises leading to a conclusion. As it stands, it's not a valid argument in the formal sense because it doesn't explicitly lay out the logical steps from premises to conclusion. Written another way, the original **proposition** suggests that it is generally easier to spot good ideas than to generate them across all important domains. There's a lot to unpack there, but we can start.
+In fairness to Aidan, the 'argument' is actually more a _statement_ than a structured logical argument with premises leading to a conclusion. As it stands, it's not a valid argument in the formal sense because it doesn't explicitly lay out the logical steps from premises to conclusion. Written another way, the original **proposition** suggests that it is generally easier to spot good ideas than to generate them across all important domains. Let's formalize and explicate. 
 
 ## The Argument and Its Formalization
 
@@ -24,15 +24,17 @@ Where:
     S(x) represents "spotting x."
     P(x) represents "producing/generating x."
 
-Firstly, the claim of universal applicability ("all" _important_ domains) is an overly broad generalization lacking supporting evidence. This formalization, while elegant, immediately raises concerns. It treats idea generation - (P(G(x))) - and recognition - (S(G(x))) - as cleanly separable, quantifiable, and universally comparable processes. In reality, these are often intertwined, iterative processes without clear boundaries.  Many ideas are generated through feedback from evaluation, while the evaluation process itself can involve creative generation. More on that towards the end.
+Firstly, the claim of universal applicability ("all" _important_ domains) is an overly broad generalization lacking supporting evidence. This formalization, while elegant, immediately raises concerns. It treats idea generation - (P(G(x))) - and recognition - (S(G(x))) - as cleanly separable, quantifiable, and universally comparable processes. In reality, these are often intertwined, interleaved, iterative processes without clear boundaries [https://doi.org/10.1016/j.plrev.2023.07.002].  Many ideas are generated through feedback from evaluation, while the evaluation process itself can involve creative generation. More on that towards the end.
 
 ## Overextending P
 
-The invocation of P vs NP problem to justify this claim is thought-provoking but ultimately flawed. P vs NP is a specific conjecture within computational complexity theory, dealing with decision problems and the time complexity of deterministic vs. non-deterministic Turing machines. While it offers an intriguing analogy – verifying solutions (spotting ideas) vs. finding solutions (generating ideas) – extending this to all domains of human creativity and problem-solving is an unwarranted leap.
+The invocation of P vs NP problem to justify this claim is thought-provoking but ultimately flawed. P vs NP is a specific conjecture within computational complexity theory, dealing with decision problems and the time complexity of deterministic vs. non-deterministic Turing machines. While it offers an intriguing analogy – verifying solutions (spotting ideas) vs finding solutions (generating ideas) – extending this to all domains of human creativity and problem-solving is an unwarranted leap.
 
-Moreover, P vs NP remains an unproven conjecture. Using it as a certain premise for a broad argument about idea generation and recognition is doubly tenuous. The generalization from computational complexity to all domains involves a _fallacy of division_, where characteristics of a specific type of problem (NP-complete problems) are incorrectly applied universally.
+Moreover, P vs NP remains an unproven conjecture. Using it as a certain premise for a broad argument about idea generation and recognition becomes doubly tenuous. The generalization from computational complexity to all domains involves what formally regarded as a _fallacy of division_, where characteristics of a specific type of problem (like NP-complete problems) are incorrectly applied universally.
 
-Further, how do we define "easier" across diverse domains? Consider the following possibilities:
+## What's Actually Easy?
+
+How do we define "easier" across diverse domains? Consider a few (non-exhaustive list of) possibilities:
 
 1. Cognitive load: Measured by mental effort, time taken, or resources required.
 2. Success rate: Frequency of generating/recognizing good ideas in a given timeframe.
@@ -48,13 +50,13 @@ In mature, well-explored fields, coming up with novel good ideas can indeed be h
 The cutting edge of any field tends to have this characteristic (which is why I've loved studying transformational change and paradigmatic change for the past decade!).
 
 ## Insights from Cognitive Science
-Research offers valuable perspectives that challenge the universality of the original claim:
+Research offers valuable perspectives that help us challenge the notion that these processes can be cleanly separated and compared.
 
-* Creative problem-solving often involves simultaneous generation and evaluation of ideas (Beaty & Silvia, 2012). This challenges the notion that these processes can be cleanly separated and compared.
-* The 'incubation effect' suggests that idea generation can occur unconsciously (Gilhooly, 2016), making it difficult to compare with conscious recognition processes.
-* fMRI studies indicate that idea generation and evaluation activate overlapping brain regions (Benedek et al., 2018), suggesting these processes are not entirely distinct.
-* Research on 'aha! moments' shows that idea generation and recognition can occur simultaneously in sudden insights (Kounios & Beeman, 2014).
-* Studies on expertise demonstrate that in some domains, experts can generate high-quality ideas more easily than novices can recognize them (Ericsson & Pool, 2016).
+* Creative problem-solving often involves simultaneous generation and evaluation of ideas (Beaty & Silvia, 2012). [https://libres.uncg.edu/ir/uncg/f/P_Silvia_Why_2012.pdf]
+* The 'incubation effect' suggests that idea generation can occur unconsciously (Gilhooly, 2016), making it difficult to compare with conscious recognition processes. [https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2016.01076/full]
+* fMRI studies indicate that idea generation and evaluation activate overlapping brain regions (Benedek et al., 2018) [https://www.sciencedirect.com/science/article/pii/S1053811920300732], suggesting these processes are not entirely distinct.
+* Research on 'aha! moments' shows that idea generation and recognition can occur simultaneously in sudden insights (Kounios & Beeman, 2014) [https://www.researchgate.net/publication/259650283_The_Cognitive_Neuroscience_of_Insight].
+* [https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2018.02529/full]
 
 At a minimum, these findings suggest that the relationship between idea generation and recognition is far more **complex** and **context-dependent** than the original claim implies, varying with factors like domain expertise, problem type, and individual cognitive styles.
 
@@ -81,7 +83,14 @@ The emerging field of ideonomy, which seeks to study the nature and behavior of 
 
 From an ideonomic perspective, the process of idea generation and recognition is not a linear, one-directional flow, but a complex network of interactions. This view aligns more closely with the cognitive science findings and philosophical considerations discussed earlier, suggesting that a more holistic approach is needed to understand the true nature of ideation.
 
+If you made it this far, cheers! Hope you enjoyed the read. Happy hunting anon.
+
+[https://ideonomy.mit.edu/pdf/what_ideonomy_can_do.pdf]
+
+[esoteric wisdom.pdf](https://github.com/user-attachments/files/16570723/esoteric.wisdom.pdf)
+
 ### Appendix and dfs (sources follow):
+
 
 **P vs NP dfs**
 
