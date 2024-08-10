@@ -1,4 +1,4 @@
-# Infinite Jests and Bounded Recognitions- to P or != NP ? 
+# Infinite Jests and Bounded Recognitions - to P or != NP  
 <p align="center">
   <img alt="aidan arg" src="https://github.com/user-attachments/assets/f10516e5-4880-4d3b-947d-316d03f082db" style=width:50%;>
 </p>
@@ -27,7 +27,8 @@ Where:
     P(x) represents "producing/generating x."
   
 
-Firstly, the claim of universal applicability ("all" _important_ domains) is an overly broad generalization. This formalization, while elegant, immediately raises concerns. It treats idea generation - (P(G(x))) - and recognition - (S(G(x))) - as cleanly separable, quantifiable, and universally comparable processes. In reality, these are often intertwined, interleaved, iterative processes without clear boundaries 
+Firstly, the claim of universal applicability ("all" _important_ domains) is an overly broad generalization. This formalization, while elegant, immediately raises concerns. It treats idea generation - (P(G(x))) - and recognition - (S(G(x))) - as cleanly separable, quantifiable, and universally comparable processes. In reality, these are often intertwined, interleaved, iterative processes without clear boundaries
+ 
 [https://doi.org/10.1016/j.plrev.2023.07.002] (much more in the research sections!).
 
 ## Overextending P
@@ -40,6 +41,7 @@ Moreover, P vs NP remains an unproven conjecture. Using it as a certain premise 
 
 ## P Rising
 I thought I was done with this whole damn thing and then Jonathan Gorard @getjonwithit posted about Godel and well, it was relevant afaict. So I'll briefly tie it in, link it, but won't try to go too much into it. IANA Godel scholar (yet) so be kind.
+
 [https://x.com/getjonwithit/thread/1822366224460009729]
 >> I would kindly ask that you please SKIP THIS AND JUMP BACK AFTER YOU READ TIL THE END << Perhaps the challenges/complexity of verification is owed to the inherent irreducibility of certain creative processes, not the nature of "easier" vs "harder" problems in P vs NP. It suggests that some problems might be inherently difficult not just because they are hard to verify (NP) but because they require an irreducible amount of computational effort to solve, which is consistent with the idea of NP-complete problems.
 
@@ -68,10 +70,14 @@ The cutting edge of any field tends to have this characteristic (which is why I'
 ## Insights from Cognitive Science
 Research offers valuable perspectives that help us challenge the notion that these processes can be cleanly separated and compared.
 
-* Creative problem-solving often involves simultaneous generation and evaluation of ideas (Beaty & Silvia, 2012). [https://libres.uncg.edu/ir/uncg/f/P_Silvia_Why_2012.pdf]
-* The 'incubation effect' suggests that idea generation can occur unconsciously (Gilhooly, 2016), making it difficult to compare with conscious recognition processes. [https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2016.01076/full]
+* Creative problem-solving often involves simultaneous generation and evaluation of ideas (Beaty & Silvia, 2012).
+  [https://libres.uncg.edu/ir/uncg/f/P_Silvia_Why_2012.pdf]
+* The 'incubation effect' suggests that idea generation can occur unconsciously (Gilhooly, 2016), making it difficult to compare with conscious recognition processes.
+* [https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2016.01076/full]
 * fMRI studies indicate that idea generation and evaluation activate overlapping brain regions (Benedek et al., 2018) [https://www.sciencedirect.com/science/article/pii/S1053811920300732], suggesting these processes are not entirely distinct.
-* Research on 'aha! moments' shows that idea generation and recognition can occur simultaneously in sudden insights (Kounios & Beeman, 2014) [https://www.researchgate.net/publication/259650283_The_Cognitive_Neuroscience_of_Insight].
+* Research on 'aha! moments' shows that idea generation and recognition can occur simultaneously in sudden insights (Kounios & Beeman, 2014)
+  [https://www.researchgate.net/publication/259650283_The_Cognitive_Neuroscience_of_Insight].
+* How Do we Assess Creative Ideation? (Barbot, 2018)
 * [https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2018.02529/full]
 
 At a minimum, these findings suggest that the relationship between idea generation and recognition is far more **complex** and **context-dependent** than the original claim implies, varying with factors like domain expertise, problem type, and individual cognitive styles.
@@ -101,10 +107,11 @@ From an ideonomic perspective, the process of idea generation and recognition is
 
 If you made it this far, cheers! Hope you enjoyed the read. Happy hunting anon.
 
-[esoteric wisdom.pdf](https://github.com/user-attachments/files/16570723/esoteric.wisdom.pdf)
+<p align="center">
+  <img alt="esoteric" src="https://github.com/user-attachments/assets/9d31a4fe-f85f-470b-85a7-509a0587e7be" style=width:50%;>
+</p>
 
 ### Appendix and dfs (sources follow):
-
 
 **P vs NP dfs**
 
