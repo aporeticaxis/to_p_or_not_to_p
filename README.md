@@ -5,7 +5,8 @@
   <img alt="aidan arg" src="https://github.com/user-attachments/assets/f10516e5-4880-4d3b-947d-316d03f082db" style=width:50%;>
 </p>
 
-On X last week, Aidan 🐐 [https://x.com/aidan_mclau] made an intriguing claim: "It's easier to spot good ideas than to generate them."
+On X last week, Aidan 🐐 [https://x.com/aidan_mclau] made an intriguing claim: 
+"It's easier to spot good ideas than to generate them."
 
 This assertion piqued my interest, with many jumping in the comments and readily drawing parallels to the (in)famous P vs NP problem in computational complexity theory. However, upon closer examination, this _seemingly_ intuitive statement reveals itself to be a problematic overgeneralization that fails to capture the nuanced reality of idea generation and recognition across diverse domains.
 
@@ -37,7 +38,7 @@ Firstly, the claim of universal applicability ("all" _important_ domains) is an 
 
 The invocation of the P vs NP problem is thought-provoking, but, in my reading, ultimately flawed. P vs NP is a specific conjecture within computational complexity theory, dealing with decision problems and the time complexity of deterministic vs. non-deterministic Turing machines. While it offers an intriguing analogy – verifying solutions (spotting ideas) vs finding solutions (generating ideas) – extending this to all domains of human creativity and problem-solving is an unwarranted leap.
 
-Moreover, P vs NP remains an unproven conjecture. Using it as a certain premise for a broad argument about idea generation and recognition becomes doubly tenuous. The generalization from computational complexity to all domains involves what formally regarded as a _fallacy of division_, where characteristics of a specific type of problem (like NP-complete problems) are incorrectly applied universally.
+Moreover, P vs NP remains an unproven conjecture. Using it as a certain premise for a broad argument about idea generation and recognition becomes doubly tenuous. The generalization from computational complexity to all domains involves what is formally regarded as a _fallacy of division_, where characteristics of a specific type of problem (like NP-complete problems) are incorrectly applied universally.
 
 ---
 
