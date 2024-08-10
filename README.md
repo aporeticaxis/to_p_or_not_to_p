@@ -14,21 +14,23 @@ Where:
     S(x)S(x) represents "spotting x."
     P(x)P(x) represents "producing/generating x."
 
-_Examining P vs NP Invocation_
+_Examining P vs NP Invocation, Interpretation_
 
 Several commenters equated this argument to (or justify it by) the P vs NP problem in computational complexity, which contrasts the ease of verifying a solution (analogous to **spotting** a good idea) with the difficulty of finding one (analogous to **generating** a good idea).
 
-_P vs NP Interpretation_
+## Some definitions (sources follow):
 
-The equation P≠NP suggests that there exist problems for which solutions can be verified in polynomial time but not necessarily _solved_ in polynomial time. Some commenters generalized this to argue that the difficulty of generating good ideas always exceeds that of recognizing them in _any_ domain.
+    **P**: is the class of decision problems solvable by a deterministic Turing machine in polynomial time, while 
+    **NP**: is the class of decision problems verifiable by a deterministic Turing machine in polynomial time given a suitable certificate. 
+    **NP-complete problems**: are the "hardest" problems in NP, to which any other NP problem can be reduced in polynomial time.
+
+The equation P≠NP suggests that there exist problems for which solutions can be verified in polynomial time but not necessarily _solved_ in polynomial time. Some commenters generalized this to argue that the difficulty of generating good ideas always exceeds that of recognizing them in _any_ domain by connecting it to Aidan's original argument.
+
+* read more here: https://stackoverflow.com/a/127831
+* and here: https://en.wikipedia.org/wiki/P_versus_NP_problem
+
+The analogy to the P vs NP question, while thought-provoking, is flawed when stretched to be a universal rule. P vs NP is a specific conjecture within the scope of computational complexity theory and decision problems. Generalizing it to all ideas in all domains is an unwarranted leap. Even in its native context, P vs NP remains unproven - using it as a certain premise for a broad argument is thus doubly tenuous.
 
 # Analyzing Validity and Soundness
 
-_Soundness of the Original Argument_
-
-The claim that spotting is easier than generating in all domains is a broad generalization that lacks empirical support. Not all domains function like computational problems, making this a dubious assertion.
-
-The argument isn't structured as a formal, deductive argument with clear premises and a conclusion. It's more of a hypothesis or generalization that needs further support. The explanation from Stack Overflow clarifies that P≠NPP=NP is an unresolved conjecture. The generalization from computational complexity to all domains involves a fallacy of division, where characteristics of a specific type of problem (NP-complete problems) are incorrectly applied to all domains.
-Specificity of P vs NP
-
-The P vs NP problem is deeply rooted in computational complexity and concerns the relationship between deterministic and non-deterministic Turing machines. Extending this to general idea generation and recognition is an oversimplification, as not all problems or domains fit into the framework of computational complexity theory.
+Neither valid nor sound. The generalization from computational complexity to all domains involves a _fallacy of division_, where characteristics of a specific type of problem (NP-complete problems) are incorrectly applied to all domains.
