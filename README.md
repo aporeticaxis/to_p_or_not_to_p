@@ -46,7 +46,7 @@ I thought I was done with this whole damn thing and then Jonathan Gorard @getjon
 
 [https://x.com/getjonwithit/thread/1822366224460009729]
 
->> _**I would kindly ask that you please SKIP THIS AND JUMP BACK AFTER YOU READ TIL THE END **_ <<
+>> _**I would kindly ask that you please SKIP THIS AND JUMP BACK AFTER YOU READ TIL THE END **_ 
 
 Perhaps the challenges/complexity of verification is owed to the inherent irreducibility of certain creative processes? Reading it thru the Gorard interp of Godel's 1st incompleteness theorem suggests that some problems might be inherently difficult not just because they are hard to verify (NP) but because they require an irreducible amount of computational effort to solve, which is consistent with the idea of NP-complete problems.
 
