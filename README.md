@@ -1,9 +1,10 @@
-# Infinite Jests and Bounded Recognitions - to P or != NP  
+# Infinite Jests and Bounded Recognitions - to P or != NP
+[https://x.com/aidan_mclau/status/1820935364128669840]
 <p align="center">
   <img alt="aidan arg" src="https://github.com/user-attachments/assets/f10516e5-4880-4d3b-947d-316d03f082db" style=width:50%;>
 </p>
 
-On X last week, Aidan 🐐 [https://x.com/aidan_mclau] made an intriguing claim: "It's easier to spot good ideas than to generate them." 
+On X last week, Aidan 🐐 [https://x.com/aidan_mclau] made an intriguing claim: "It's easier to spot good ideas than to generate them."
 
 This assertion piqued my interest, with many jumping in the comments and readily drawing parallels to the (in)famous P vs NP problem in computational complexity theory. However, upon closer examination, this _seemingly_ intuitive statement reveals itself to be a problematic overgeneralization that fails to capture the nuanced reality of idea generation and recognition across diverse domains.
 
@@ -43,7 +44,10 @@ Moreover, P vs NP remains an unproven conjecture. Using it as a certain premise 
 I thought I was done with this whole damn thing and then Jonathan Gorard @getjonwithit posted about Godel and well, it was relevant afaict. So I'll briefly tie it in, link it, but won't try to go too much into it. IANA Godel scholar (yet) so be kind.
 
 [https://x.com/getjonwithit/thread/1822366224460009729]
->> I would kindly ask that you please SKIP THIS AND JUMP BACK AFTER YOU READ TIL THE END << Perhaps the challenges/complexity of verification is owed to the inherent irreducibility of certain creative processes, not the nature of "easier" vs "harder" problems in P vs NP. It suggests that some problems might be inherently difficult not just because they are hard to verify (NP) but because they require an irreducible amount of computational effort to solve, which is consistent with the idea of NP-complete problems.
+
+>> _**I would kindly ask that you please SKIP THIS AND JUMP BACK AFTER YOU READ TIL THE END **_ <<
+
+Perhaps the challenges/complexity of verification is owed to the inherent irreducibility of certain creative processes? Reading it thru the Gorard interp of Godel's 1st incompleteness theorem suggests that some problems might be inherently difficult not just because they are hard to verify (NP) but because they require an irreducible amount of computational effort to solve, which is consistent with the idea of NP-complete problems.
 
 
 --- 
