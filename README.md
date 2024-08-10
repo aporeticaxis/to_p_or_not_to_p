@@ -1,8 +1,16 @@
 # Infinite Jests and Bounded Recognitions- to P or != NP ? 
 <p align="center">
   <img alt="aidan arg" src="https://github.com/user-attachments/assets/f10516e5-4880-4d3b-947d-316d03f082db" style=width:65%;>
-  
-  The argument is more a statement than a structured logical argument with premises leading to a conclusion. As it stands, it's not a valid argument in the formal sense, because it doesn't explicitly lay out the logical steps from premises to conclusion. It’s a broad assertion that requires empirical or logical support to be valid.The original proposition suggests that it is generally easier to spot good ideas than to generate them across all important domains. This can be formalized as:
+  In a recent online discussion, Aidan (🐐) posited an intriguing claim: "It's easier to spot good ideas than to generate them." This assertion quickly gained traction, with many jumping in the comments and drawing parallels to the (in)famous P vs NP problem in computational complexity theory. However, upon closer examination, this _seemingly_ intuitive statement reveals itself to be a problematic overgeneralization that fails to capture the nuanced reality of idea generation and recognition across diverse domains.
+
+So, let's explicate!
+
+In fairness, the 'argument' is actually more a _statement_ than a structured logical argument with premises leading to a conclusion. As it stands, it's not a valid argument in the formal sense because it doesn't explicitly lay out the logical steps from premises to conclusion. Written another way, the original **proposition** suggests that it is generally easier to spot good ideas than to generate them across all important domains. There's a lot to unpack there, but we can start.
+
+## The Argument and Its Formalization
+
+Aidan's claim can be formalized as follows:
+
   </p>
 <p align="center">
   ∀x(Important Domain(x) → S(G(x)) <  P(G(x)))
@@ -14,7 +22,6 @@ Where:
     S(x) represents "spotting x."
     P(x) represents "producing/generating x."
 
-## Initial Impressions
 
 Firstly, the claim of universal applicability to "all important domains" is an overly broad generalization lacking supporting evidence. 
 Intuition might have the erudite recall many domains do not neatly map to the framework of computational problems, where a crisp notion of verifying solutions applies. In creative and subjective fields like art, music, or philosophy, the very notions of "good ideas" and "verification" are open to interpretation. Generating ideas in those realms is a core part of the process, not a separate challenge from recognizing quality.
