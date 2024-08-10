@@ -3,7 +3,7 @@
   <img alt="aidan arg" src="https://github.com/user-attachments/assets/f10516e5-4880-4d3b-947d-316d03f082db" style=width:65%;>
 </p>
 
-In a recent online discussion, Aidan (🐐) posited an intriguing claim: "It's easier to spot good ideas than to generate them." This assertion quickly gained traction, with many jumping in the comments and drawing parallels to the (in)famous P vs NP problem in computational complexity theory. However, upon closer examination, this _seemingly_ intuitive statement reveals itself to be a problematic overgeneralization that fails to capture the nuanced reality of idea generation and recognition across diverse domains.
+On X last week, Aidan🐐[https://x.com/aidan_mclau] made an intriguing claim: "It's easier to spot good ideas than to generate them." This assertion quickly gained traction, with many jumping in the comments and drawing parallels to the (in)famous P vs NP problem in computational complexity theory. However, upon closer examination, this _seemingly_ intuitive statement reveals itself to be a problematic overgeneralization that fails to capture the nuanced reality of idea generation and recognition across diverse domains.
 
 So, let's explicate!
 
@@ -60,23 +60,30 @@ At a minimum, these findings suggest that the relationship between idea generati
 
 ## Philosophical Considerations
 
-We can additional scrutinize the claim's universality by by critically examining its key terms. What constitutes an "important domain"? The criteria for importance may vary dramatically across cultures, disciplines, and historical periods. 
-
-Similarly, the concept of a "good idea" is highly contextual. (Don't worry, I'm not about to launch into a discussion of Plato's forms.)
+We can additional scrutinize the claim's universality by by critically examining its key terms. What constitutes an "important domain"? The criteria for importance may vary dramatically across cultures, disciplines, and historical periods. Similarly, the concept of a "good idea" is highly contextual. 
+_(Don't worry, I'm not about to launch into a discussion of Plato's forms.)_
 
 In scientific research, a good idea might be one that is testable and has explanatory power 
-* (this is a simplistic view, and in reality, more practitioners and experts probably subscribe to the views laid out by the likes of Bas van Fraassen/Lakatos/Longino). 
+_(this is a simplistic view, and in reality, more practitioners and experts probably subscribe to the views laid out by the likes of Bas van Fraassen/Lakatos/Longino)_
 
 In art, it might be one that provokes emotion or challenges perceptions. 
 
 In business, it could be one that increases profitability or solves a market need.
 
 This subjectivity and context-dependence undermine the claim's validity as a universal principle. It highlights the need for a more nuanced understanding of ideation processes that accounts for the diverse nature of human creativity and problem-solving across different fields of endeavor.
-Ideonomy: A Framework for Understanding
+
+## Ok Wat Do Weird Frok Man
+###I deonomy: A Framework for Understanding
+
+I'm a multidisiplinarian, so I'm going to advocate for an approach that is interdisiplinary in nature; this isn't to unnecessarily complexify things, rather to encourage consilience and eliminate waste and duplicative work where experts have already invested their time and passions. 
+
 The emerging field of ideonomy, which seeks to study the nature and behavior of ideas systematically, offers a promising framework for addressing these complexities. Ideonomy recognizes that ideas are not merely static entities to be generated or recognized, but dynamic, evolving constructs that interact with their environment and with other ideas.
+
 From an ideonomic perspective, the process of idea generation and recognition is not a linear, one-directional flow, but a complex network of interactions. This view aligns more closely with the cognitive science findings and philosophical considerations discussed earlier, suggesting that a more holistic approach is needed to understand the true nature of ideation.
 
 ### Appendix and dfs (sources follow):
+
+**P vs NP dfs**
 
     P: the class of decision problems solvable by a deterministic Turing machine in polynomial time, while 
     NP:  the class of decision problems verifiable by a deterministic Turing machine in polynomial time given a suitable certificate. 
@@ -87,8 +94,12 @@ The equation P≠NP suggests that there exist problems for which solutions can b
 * read more here: https://stackoverflow.com/a/127831
 * and here: https://en.wikipedia.org/wiki/P_versus_NP_problem
 
-tl;dr Validity hinges on the logical consistency within the premises: if we accept the premise that all domains can be reduced to a P vs NP problem, the argument might hold. But this is a big assumption, making the validity contingent on this equivalence. As I've tried to suggest, I don't think this is justified, and as such the generalization from computational complexity to all domains involves a _fallacy of division_, where characteristics of a specific type of problem (NP-complete problems) are incorrectly applied to all domains. Computational complexity, while loosely analogous in some ways, does not automatically port over to a universal law about the relative difficulty of idea generation and recognition across all domains.
-
-# IDEONOMY - Let's Get Creative
-* https://ideonomy.mit.edu/
+**Research Papers**
 * https://www.researchgate.net/publication/380820358_Divergent_Creativity_in_Humans_and_Large_Language_Models
+
+
+**Ideonomy Master Source**
+* https://ideonomy.mit.edu/
+
+**tl;dr**
+tl;dr Validity hinges on the logical consistency within the premises: if we accept the premise that all domains can be reduced to a P vs NP problem, the argument might hold. But this is a big assumption, making the validity contingent on this equivalence. As I've tried to suggest, I don't think this is justified, and as such the generalization from computational complexity to all domains involves a _fallacy of division_, where characteristics of a specific type of problem (NP-complete problems) are incorrectly applied to all domains. Computational complexity, while loosely analogous in some ways, does not automatically port over to a universal law about the relative difficulty of idea generation and recognition across all domains.
