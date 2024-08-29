@@ -102,8 +102,8 @@ In business, it could be one that increases profitability or solves a market nee
 
 This subjectivity and context-dependence undermine the claim's validity as a universal principle. It highlights the need for a more nuanced understanding of ideation processes that accounts for the diverse nature of human creativity and problem-solving across different fields of endeavor.
 
-## Ok Wat Do Weird Frok Man
-###I deonomy: A Framework for Understanding
+## Ok Wat Do Weird Frok Man Mean
+### Ideonomy: A Framework for Understanding
 
 I'm a multidisiplinarian, so I'm going to advocate for an approach that is interdisiplinary in nature; this isn't to unnecessarily complexify things, rather to encourage consilience and eliminate waste and duplicative work where experts have already invested their time and passions. 
 
