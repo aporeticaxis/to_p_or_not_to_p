@@ -90,7 +90,7 @@ At a minimum, these findings suggest that the relationship between idea generati
 
 ## Philosophical Considerations
 
-We can additionally scrutinize the claim's universality by by critically examining its key terms. What constitutes an "important domain"? The criteria for importance may vary dramatically across cultures, disciplines, and historical periods. Similarly, the concept of a "good idea" is highly contextual. 
+We can additionally scrutinize the claim's universality by critically examining its key terms. What constitutes an "important domain"? The criteria for importance may vary dramatically across cultures, disciplines, and historical periods. Similarly, the concept of a "good idea" is highly contextual. 
 _(Don't worry, I'm not about to launch into a discussion of Plato's forms.)_
 
 In scientific research, a good idea might be one that is testable and has explanatory power 
